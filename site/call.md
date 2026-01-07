@@ -38,7 +38,7 @@ Different to benchmarks and from a software engineering perspective, teams shoul
 
 Participants may use any GenAI or strategies they prefer—fine-tuning, prompting strategies, program synthesis, RAG pipelines, multi-agent architectures, or any hybrid approach. The competition encourages creativity and experimentation.
 
-Participants will develop demos for and end-to-end generation, testing, and maintenance of these AI-generated libraries, and to quantitatively compare their performance and quality against human-written counterparts. 
+Participants will develop demos for an end-to-end generation, testing, and maintenance of these AI-generated libraries, and to quantitatively compare their performance and quality against human-written counterparts. 
 
 ### Dataset
 
