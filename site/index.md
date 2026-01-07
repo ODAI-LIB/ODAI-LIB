@@ -8,6 +8,8 @@ layout: home
 
 <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="ODAI-LIB Logo" style="max-width: 300px;">
 
-This competition aims to address challenges arising from software ecosystem dependencies by introducing a novel approach: On-Demand Library Generation (ODAI-LIB). Instead of relying on vast, complex, and potentially vulnerable external repositories, contestants will focus on dynamically generating small, context-specific, and high-quality libraries precisely when they are needed within a project. The participants will leverage prior experience in software ecosystems and have already compiled an initial dataset of software libraries and performed preliminary comparative analyses of human-generated versus AI-generated code. 
+This competition aims to address challenges arising from software ecosystem dependencies by introducing a novel approach: On-Demand Library Generation (ODAI-LIB). 
 
+Contestants will focus on dynamically generating high-quality libraries precisely when they are needed within a project. The participants will leverage an initial dataset of software libraries. Rather than benchmarking, participants will demonstrate practical usage in a real-world scenario using real data provided. 
+ 
 {{ call_page.content }}
