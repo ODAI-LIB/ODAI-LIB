@@ -32,7 +32,7 @@ The competition challenges participants to design and present different GenAI te
 
 In detail, participants are asked to complete the following task:
 
-> *Generate a library software repository or library that is functionality similar or better than the existing human-written repository.
+> *Generate a library software repository or library that is functionality similar or better than the existing human-written repository.*
 
 Different to benchmarks and from a software engineering perspective, teams should demonstrate reproducibility, practical application and how these techniques are possible in a live demonstration. Novelty must be emphasized in the submission abstract and all scripts and methods will be made available. 
 
