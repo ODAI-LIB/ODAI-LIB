@@ -20,13 +20,16 @@
 
 title: ODAI-LIB Challenge 2026
 subtitle: 'FSE/AIWare On-Demand Library Generation, Sun 5 - Thu 9 July 2026 Montreal, Canada'
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
+  The ODAI-LIB Challenge 2026 (On-Demand Libraries: Prompting to Generate an Ecosystem Library) is a competition held as part of the FSE-AIWare 2026 Competition Track. The challenge explores how generative AI techniques can be used to dynamically generate software libraries on demand, addressing challenges related to software ecosystem dependencies, security vulnerabilities, and maintenance overhead.
+# twitter_username: jekyllrb
 github_username:  odai-lib
+
+header_pages:
+- call.md
+- accepted-submissions.md
+- program-committee.md
+- organising-committee.md
 
 nav-links:
 - title: FSE 2026
@@ -36,6 +39,7 @@ nav-links:
 theme: minima
 plugins:
   - jekyll-feed
+accent_color: "#DF4C20"
 
 # baseurl: "" # the subpath of your site, e.g. /blog # leave commented out if no subpath
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

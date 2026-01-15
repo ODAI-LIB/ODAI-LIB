@@ -6,7 +6,7 @@ layout: home
 ---
 {% assign call_page = site.pages | where:"title", "Call for Participation" | first %}
 
-<img src="{{ '/assets/images/logo.png' | relative_url }}" alt="ODAI-LIB Logo" style="max-width: 300px;">
+<img src="{{ '/assets/images/logo.jpg' | relative_url }}" alt="ODAI-LIB Logo" style="max-width: 300px;">
 
 This competition aims to address challenges arising from software ecosystem dependencies by introducing a novel approach: On-Demand Library Generation (ODAI-LIB). 
 
